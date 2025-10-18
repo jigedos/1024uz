@@ -1,0 +1,56 @@
+[
+  {
+      "name": "📺电视直播",
+      "api": "https://tv.iill.top/m3u/Gather",
+      "type": 10,
+      "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
+  },
+  {
+      "name": "🎥网络直播",
+      "api": "https://m.iill.top/Live.m3u",
+      "type": 10,
+      "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
+  },
+  {
+      "name": "🚴‍♂️体育直播",
+      "api": "https://tv.iill.top/m3u/Sport",
+      "type": 10,
+      "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
+  },
+  {
+      "name": "🐯虎牙一起看",
+      "api": "https://sub.ottiptv.cc/huyayqk.m3u",
+      "type": 10,
+      "remark": "来自 Mursor 大佬 https://github.com/mursor1985"
+  },
+  {
+      "name": "🐟斗鱼一起看",
+      "api": "https://sub.ottiptv.cc/douyuyqk.m3u",
+      "type": 10,
+      "remark": "来自 Mursor 大佬 https://github.com/mursor1985"
+  },
+  {
+      "name": "🔄YY轮播",
+      "api": "https://sub.ottiptv.cc/yylunbo.m3u",
+      "type": 10,
+      "remark": "来自 Mursor 大佬 https://github.com/mursor1985"
+  },
+  {
+      "name": "📺哔哩直播",
+      "api": "https://sub.ottiptv.cc/bililive.m3u",
+      "type": 10,
+      "remark": "来自 Mursor 大佬 https://github.com/mursor1985"
+  },
+  {
+      "name": "📡范明明IPv6",
+      "api": "https://cdn.jsdelivr.net/gh/fanmingming/live@refs/heads/main/tv/m3u/ipv6.m3u",
+      "type": 10,
+      "remark": "来自 范明明 大佬 https://github.com/fanmingming"
+  },
+  {
+      "name": "🛰️Govin",
+      "api": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u",
+      "type": 10,
+      "remark": "来自 Guovin 大佬 https://github.com/Guovin"
+  }
+]
