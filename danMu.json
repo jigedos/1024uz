@@ -1,0 +1,12 @@
+[
+  {
+    "name": "弹幕扩展",
+    "version": 11,
+    "remark": "搜不到就算了，不要那么执着",
+    "env": "弹幕解析地址##内置 4 条线路。格式 地址1;地址2",
+    "codeID": "4Y6DDMATfbw0Rg0Y2AOGpfmpU2cgspFf",
+    "order": "A02",
+    "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions/main/danMu/js/danMu2.txt",
+    "type": 400
+  }
+]
